@@ -1,0 +1,11 @@
+C:\Code\MovieConsoleApp\MovieConsoleApp\bin\Debug\netcoreapp2.1\MovieConsoleApp.deps.json
+C:\Code\MovieConsoleApp\MovieConsoleApp\bin\Debug\netcoreapp2.1\MovieConsoleApp.runtimeconfig.json
+C:\Code\MovieConsoleApp\MovieConsoleApp\bin\Debug\netcoreapp2.1\MovieConsoleApp.runtimeconfig.dev.json
+C:\Code\MovieConsoleApp\MovieConsoleApp\bin\Debug\netcoreapp2.1\MovieConsoleApp.dll
+C:\Code\MovieConsoleApp\MovieConsoleApp\bin\Debug\netcoreapp2.1\MovieConsoleApp.pdb
+C:\Code\MovieConsoleApp\MovieConsoleApp\obj\Debug\netcoreapp2.1\MovieConsoleApp.csprojAssemblyReference.cache
+C:\Code\MovieConsoleApp\MovieConsoleApp\obj\Debug\netcoreapp2.1\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\Code\MovieConsoleApp\MovieConsoleApp\obj\Debug\netcoreapp2.1\MovieConsoleApp.AssemblyInfoInputs.cache
+C:\Code\MovieConsoleApp\MovieConsoleApp\obj\Debug\netcoreapp2.1\MovieConsoleApp.AssemblyInfo.cs
+C:\Code\MovieConsoleApp\MovieConsoleApp\obj\Debug\netcoreapp2.1\MovieConsoleApp.dll
+C:\Code\MovieConsoleApp\MovieConsoleApp\obj\Debug\netcoreapp2.1\MovieConsoleApp.pdb

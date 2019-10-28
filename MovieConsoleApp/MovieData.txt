@@ -1,0 +1,6 @@
+Jaws|Horror|1985
+Momento|Suspense|2000
+Goodfellas|Action|1990
+Casablanca|Drama|1942
+House Party|Comedy|1989
+The Joker|Suspense|2019
